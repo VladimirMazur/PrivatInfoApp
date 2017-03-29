@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PrivatInfoApp</string>
+
+    <string name="title_privat_info">Информация Привата</string>
+    <string name="title_atm">Банкоматы</string>
+    <string name="title_terminals">Терминалы</string>
+    <string name="btn_placing_terminals">Роcположение терминалиов Привата</string>
+    <string name="btn_placing_atm">Роcположение банкомати Привата</string>
+    <string name="alert_access_location">Разрешить приложении PrivatInfoApp доступ к геоданных устройства</string>
+    <string name="txt_work_time">Время работы:</string>
+
+    <string name="error_current_location">Error check please access coarse location</string>
+
+    <string name="log_connection_has_been_suspend">GoogleApiClient connection has been suspend</string>
+    <string name="log_connection_has_failed">GoogleApiClient connection has failed</string>
+
+</resources>
